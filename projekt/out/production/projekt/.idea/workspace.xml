@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8cc3f24-39df-4bad-b5ac-f76671b6125f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ludia/Hrnciar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ludia/Hrnciar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ludia/Maliar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ludia/Maliar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ludia/Zamestnanec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ludia/Zamestnanec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nastroje/PecNaVypalovanie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nastroje/PecNaVypalovanie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Obchod/Obchod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Obchod/Obchod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Priestory/Dielna.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Priestory/Dielna.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Priestory/Sklad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Priestory/Sklad.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1pwVMpe84PQfWmpcRbCyVBNL3e9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="GUI" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="projekt" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="MAIN_CLASS_NAME" value="GUI.Aplikacia" />
+      <module name="projekt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JarApplication">
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8cc3f24-39df-4bad-b5ac-f76671b6125f" name="Default Changelist" comment="" />
+      <created>1616094098307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616094098307</updated>
+      <workItem from="1616094099951" duration="2703000" />
+      <workItem from="1616403530623" duration="14945000" />
+      <workItem from="1616768909682" duration="7135000" />
+      <workItem from="1616952405367" duration="4670000" />
+      <workItem from="1617112499645" duration="828000" />
+      <workItem from="1617717560682" duration="776000" />
+      <workItem from="1617990848201" duration="2478000" />
+      <workItem from="1618134087119" duration="6625000" />
+      <workItem from="1618164577640" duration="11835000" />
+      <workItem from="1618259692030" duration="122000" />
+      <workItem from="1618260405659" duration="2043000" />
+      <workItem from="1619179692994" duration="2245000" />
+      <workItem from="1619185434256" duration="235000" />
+      <workItem from="1619185683806" duration="536000" />
+      <workItem from="1619187684951" duration="2589000" />
+      <workItem from="1619714545400" duration="7858000" />
+      <workItem from="1620129614786" duration="7726000" />
+      <workItem from="1620930193081" duration="891000" />
+      <workItem from="1620978252444" duration="2719000" />
+      <workItem from="1621001660417" duration="12821000" />
+      <workItem from="1621156309639" duration="10381000" />
+    </task>
+    <task id="LOCAL-00001" summary="Observer2 + oprava cien">
+      <created>1619188773649</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619188773649</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Pridanie súborov">
+      <created>1619189313700</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619189313700</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Spravenie menu">
+      <created>1619722460224</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619722460225</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Visitor">
+      <created>1621001306286</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621001306287</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Javadoc komentare">
+      <created>1621193696647</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621193696648</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Users/mnk/Desktop/oop/projekt/src/GUI" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Observer2 + oprava cien" />
+    <MESSAGE value="Pridanie súborov" />
+    <MESSAGE value="Spravenie menu" />
+    <MESSAGE value="Visitor" />
+    <MESSAGE value="Javadoc komentare" />
+    <option name="LAST_COMMIT_MESSAGE" value="Javadoc komentare" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
